@@ -1,8 +1,6 @@
 # Titanic-Survival-Prediction
 Using Decisicion Tree Classifier to predict Titanic Survival
 
-# Titanic Survival Prediction
-
 ## Overview
 This project implements a machine learning model to predict the survival of passengers on the Titanic using a Decision Tree Classifier. The model analyzes various passenger attributes to determine their likelihood of survival.
 
